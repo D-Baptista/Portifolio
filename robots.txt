@@ -1,0 +1,4 @@
+User-agent: *
+Dissallow: /admin/
+Dissallow: /private/
+Sitemap: https://dbaptista-tesla-clone-site.netlify.app/sitemap.xml
